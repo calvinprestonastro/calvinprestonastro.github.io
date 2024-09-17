@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Calvin Preston - 3rd year Astronomy PhD"
+title                    : "Calvin Preston"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Calvin Preston"
   pronouns         : "he/him"  
-  bio              : "PhD student at the University of Cambridge"
+  bio              : "Third year PhD student at the University of Cambridge"
   location         : "Cambridge, UK"
   employer         : "Institute of Astronomy"
   uri              : # URL
