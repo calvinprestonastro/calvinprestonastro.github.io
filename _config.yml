@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "calvin_profile_pic.png"
+  avatar           : "images/calvin_profile_pic.png"
   name             : "Calvin Preston"
   pronouns         : "he/him"  
   bio              : "Third year astronomy PhD student at the University of Cambridge"
