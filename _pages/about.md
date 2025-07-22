@@ -16,4 +16,8 @@ I graduated from the University of Cambridge, Robinson College in the summer of 
 
 My research
 ======
-I work with weak lensing galaxy surveys. Subtle distortion of the shape of galaxies due to intervening matter acting like a lense is a measureable effect, and can tell us about the content of the "stuff" doing the lensing. Surveys like the Kilo-Degree Survey (KiDS), the Dark Energy Survey (DES) alongside future surveys like Euclid, the Nancy Grace Roman Space Telescope and Vera Rubin's Legacy Survey of Space and Time. With data from these telescopes, we can constrain cosmological parameters and models.
+I work with weak lensing galaxy surveys. Subtle distortion of the shape of galaxies due to intervening matter acting like a lense is a measureable effect, and can tell us about the content of the "stuff" doing the lensing. Surveys like the Kilo-Degree Survey (KiDS), the Dark Energy Survey (DES) alongside future surveys like Euclid, the Nancy Grace Roman Space Telescope and Vera Rubin's Legacy Survey of Space and Time. With data from these telescopes, we can constrain cosmological parameters and models. Specifically, cosmic shear is a unique probe of the small scale, late time cosmological regime. This is an ideal laboratory for testing different models of dark matter, baryonic feedback and intrinsic aligments. With clever ways of modelling cosmic shear data we can exploit the full scale extent of weak lensing. 
+
+Contact
+======
+I am always happy to collaborate or answer any questions. Please contact me at my email: cp662@cam.ac.uk for any research or outreach related enquiries.
